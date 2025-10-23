@@ -1,4 +1,6 @@
-<div align="center">
+<img align="left" width="128" height="110" alt="SHSID Data Science Club" src="https://github.com/user-attachments/assets/8bab7372-fd36-4664-90d8-eee7113fd75a" />
+
+<div align="right">
 
 High School ML Course
 =====================
