@@ -75,7 +75,10 @@ A machine learning course designed for high school students, inspired by the USA
 * 4.11. Reinforcement Learning
 
 ### 5. Transformers
-* 5.1. Self-, Cross-, Masked Self-, Multi-Head-attention, Layer Normalization, Word Embedding, Positional Encoding
+* **5.1. Attention**
+    * 5.1.1. Self-Attention
+    * 5.1.2. Cross-Attention, Masked Self-Attention, Multi-Head-attention
+    * 5.1.3. Layer Normalization, Word Embedding, Positional Encoding
 * 5.2. Inference
 * 5.3. Training, Pre-Training, Fine-Tuning
 * 5.4. Batch Processing
